@@ -5,4 +5,6 @@ Assignments for the Algorithms and DataStructures class at ITU following this bo
 
 Contains solutions to finding a bridge in a graph, finding radius, diameter and center of a graph
 
-Also contains a search engine 
+Also contains:
+A protype of a search engine --> FileSE.java
+Byte sorting --> BytesProcessor.java
